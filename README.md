@@ -1,5 +1,7 @@
-Descripción del Proyecto: DataFrame de Empleos de Analista en EE.UU.
-Objetivo del Proyecto
+Descripción del Proyecto: 
+DataFrame de Empleos de Analista en EE.UU.
+
+Objetivo del Proyecto:
 El objetivo de este proyecto es crear y analizar un DataFrame que contenga información detallada sobre los empleos de analista en Estados Unidos. Este análisis permitirá entender las tendencias del mercado laboral, identificar las habilidades más demandadas, analizar la distribución salarial, y explorar otros factores relevantes para los profesionales que buscan una carrera en el ámbito del análisis de datos.
 
 
